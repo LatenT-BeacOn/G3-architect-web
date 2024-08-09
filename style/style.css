@@ -6,3 +6,26 @@
   font-weight: 400;
   font-style: normal;
 }
+
+/* shared style */
+
+.disply{
+    display: flex;
+}
+.text-color{
+    color: rgb(66, 66, 66);
+}
+.nav-bar{
+    justify-content: space-between;
+}
+
+.nav-item{
+      list-style: none;
+      margin-right: 30px;
+}
+.nav-link{
+    text-decoration: none;
+}
+.bg-light{
+    background-color: rgba(255, 144, 14, 0.1);
+}
